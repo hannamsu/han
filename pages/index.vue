@@ -3,6 +3,8 @@
     <span></span>
     <span></span>
     <span></span>
+    <span></span>
+    <span></span>
     <Tutorial />
   </div>
  
