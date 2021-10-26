@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ClientApp
 
 ## Build Setup
@@ -67,3 +68,7 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+=======
+# sanion_smd
+감시진단장치 웹 프로젝트
+>>>>>>> 436db11f47dfa16a3dc4093b4c7597c9b310da9a
